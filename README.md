@@ -1,5 +1,13 @@
 # Mission data : Analyse du dataset de OkCupid
 
+Description des fichiers présents dans ce repository :
+
+- Le Dataset final après nettoyage. L'original est trouvable sur Kaggle sur le lien un peu plus bas
+- Le fichier ipynb de l'EDA
+- Le fichier ipynb des clustering
+- Le fichier pbix contenant le dashboard
+- Un fichier pdf contenant le canva de la présentation
+  
 # Objectif
 
 En duo pendant 48h, nous avons la tâche d'analyser et nettoyer le dataset sur le profil des utilisateurs de OkCupid en 2012. Le dataset peut être trouvé sur Kaggle ici : https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
